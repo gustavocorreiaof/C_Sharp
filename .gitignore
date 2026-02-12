@@ -362,3 +362,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/SendEmailWorker/SendEmailWorker/appsettings.json
+/GlobalClimateAPI/GlobalClimateAPI/appsettings.json
+/BackEndChellengeAPI/BackEndChellengeAPI/appsettings.json
